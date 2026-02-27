@@ -1,0 +1,109 @@
+﻿Categoria,Mes,Trimestre,Meta_Mensual,Responsable
+Electrónica,Enero,Q1,,Juan Perez
+Electrónica,Febrero,Q1,36029.0,Juan Perez
+Electrónica,Marzo,Q1,26299.0,Juan Perez
+Electrónica,Abril,Q2,28206.0,Juan Perez
+Electrónica,Mayo,Q2,59040.0,Juan Perez
+Electrónica,Junio,Q2,8248.0,Juan Perez
+Electrónica,Julio,Q3,28509.0,Juan Perez
+Electrónica,Agosto,Q3,48540.0,Juan Perez
+Electrónica,Septiembre,Q3,58964.0,Juan Perez
+Electrónica,Octubre,Q4,37527.0,Juan Perez
+Electrónica,Noviembre,Q4,39970.0,Juan Perez
+Electrónica,Diciembre,Q4,25866.0,Juan Perez
+Accesorios,Enero,Q1,19168.0,Maria Garcia
+Accesorios,Febrero,Q1,55140.0,Maria Garcia
+Accesorios,Marzo,Q1,10075.0,Maria Garcia
+Accesorios,Abril,Q2,66694.0,Maria Garcia
+Accesorios,Mayo,Q2,34154.0,Maria Garcia
+Accesorios,Junio,Q2,31158.0,Maria Garcia
+Accesorios,Julio,Q3,65332.0,Maria Garcia
+Accesorios,Agosto,Q3,50830.0,Maria Garcia
+Accesorios,Septiembre,Q3,45001.0,Maria Garcia
+Accesorios,Octubre,Q4,34831.0,Maria Garcia
+Accesorios,Noviembre,Q4,,Maria Garcia
+Accesorios,Diciembre,Q4,8101.0,Maria Garcia
+Muebles,Enero,Q1,30313.0,
+Muebles,Febrero,Q1,57227.0,
+Muebles,Marzo,Q1,48025.0,
+Muebles,Abril,Q2,41517.0,
+Muebles,Mayo,Q2,14099.0,
+Muebles,Junio,Q2,41585.0,
+Muebles,Julio,Q3,51025.0,
+Muebles,Agosto,Q3,71768.0,
+Muebles,Septiembre,Q3,57386.0,
+Muebles,Octubre,Q4,75282.0,
+Muebles,Noviembre,Q4,48404.0,
+Muebles,Diciembre,Q4,8617.0,
+Cómputo,Enero,Q1,20118.0,Carlos López
+Cómputo,Febrero,Q1,-39237.0,Carlos López
+Cómputo,Marzo,Q1,28405.0,Carlos López
+Cómputo,Abril,Q2,39795.0,Carlos López
+Cómputo,Mayo,Q2,10014.0,Carlos López
+Cómputo,Junio,Q2,19208.0,Carlos López
+Cómputo,Julio,Q3,61959.0,Carlos López
+Cómputo,Agosto,Q3,50309.0,Carlos López
+Cómputo,Septiembre,Q3,,Carlos López
+Cómputo,Octubre,Q4,62199.0,Carlos López
+Cómputo,Noviembre,Q4,72033.0,Carlos López
+Cómputo,Diciembre,Q4,20157.0,Carlos López
+Periféricos,Enero,Q1,55488.0,Ana Torres
+Periféricos,Febrero,Q1,29914.0,Ana Torres
+Periféricos,Marzo,Q1,38386.0,Ana Torres
+Periféricos,Abril,Q2,10817.0,Ana Torres
+Periféricos,Mayo,Q2,62154.0,Ana Torres
+Periféricos,Junio,Q2,5221.0,Ana Torres
+Periféricos,Julio,Q3,73146.0,Ana Torres
+Periféricos,Agosto,Q3,75575.0,Ana Torres
+Periféricos,Septiembre,Q3,30825.0,Ana Torres
+Periféricos,Octubre,Q4,52739.0,Ana Torres
+Periféricos,Noviembre,Q4,61531.0,Ana Torres
+Periféricos,Diciembre,Q4,14171.0,Ana Torres
+electrónica,Enero,Q1,48279.0,Luis  Ramos
+electrónica,Febrero,Q1,46145.0,Luis  Ramos
+electrónica,Marzo,Q1,21334.0,Luis  Ramos
+electrónica,Abril,Q2,44363.0,Luis  Ramos
+electrónica,Mayo,Q2,71469.0,Luis  Ramos
+electrónica,Junio,Q2,45538.0,Luis  Ramos
+electrónica,Julio,Q3,,Luis  Ramos
+electrónica,Agosto,Q3,47753.0,Luis  Ramos
+electrónica,Septiembre,Q3,57743.0,Luis  Ramos
+electrónica,Octubre,Q4,43752.0,Luis  Ramos
+electrónica,Noviembre,Q4,77667.0,Luis  Ramos
+electrónica,Diciembre,Q4,21683.0,Luis  Ramos
+Almacenamiento,Enero,Q1,30144.0,PEDRO SALAS
+Almacenamiento,Febrero,Q1,60108.0,PEDRO SALAS
+Almacenamiento,Marzo,Q1,-54695.0,PEDRO SALAS
+Almacenamiento,Abril,Q2,27810.0,PEDRO SALAS
+Almacenamiento,Mayo,Q2,79593.0,PEDRO SALAS
+Almacenamiento,Junio,Q2,44446.0,PEDRO SALAS
+Almacenamiento,Julio,Q3,58225.0,PEDRO SALAS
+Almacenamiento,Agosto,Q3,76819.0,PEDRO SALAS
+Almacenamiento,Septiembre,Q3,5053.0,PEDRO SALAS
+Almacenamiento,Octubre,Q4,44829.0,PEDRO SALAS
+Almacenamiento,Noviembre,Q4,42606.0,PEDRO SALAS
+Almacenamiento,Diciembre,Q4,32549.0,PEDRO SALAS
+Redes,Enero,Q1,61346.0,Sofía Vega
+Redes,Febrero,Q1,47237.0,Sofía Vega
+Redes,Marzo,Q1,65946.0,Sofía Vega
+Redes,Abril,Q2,62905.0,Sofía Vega
+Redes,Mayo,Q2,,Sofía Vega
+Redes,Junio,Q2,33010.0,Sofía Vega
+Redes,Julio,Q3,72000.0,Sofía Vega
+Redes,Agosto,Q3,67021.0,Sofía Vega
+Redes,Septiembre,Q3,27241.0,Sofía Vega
+Redes,Octubre,Q4,16114.0,Sofía Vega
+Redes,Noviembre,Q4,42196.0,Sofía Vega
+Redes,Diciembre,Q4,72561.0,Sofía Vega
+Muebles,Enero,Q1,48933.0,
+Muebles,Febrero,Q1,17240.0,
+Muebles,Marzo,Q1,35784.0,
+Muebles,Abril,Q2,45687.0,
+Muebles,Mayo,Q2,34444.0,
+Muebles,Junio,Q2,31100.0,
+Muebles,Julio,Q3,24313.0,
+Muebles,Agosto,Q3,8201.0,
+Muebles,Septiembre,Q3,11057.0,
+Muebles,Octubre,Q4,37092.0,
+Muebles,Noviembre,Q4,67277.0,
+Muebles,Diciembre,Q4,14545.0,
